@@ -37,7 +37,7 @@ public class Arreglo {
     }
     
     public void pruebaLineal(int clave){
-        
+     int x=2;   
     }
     
     
